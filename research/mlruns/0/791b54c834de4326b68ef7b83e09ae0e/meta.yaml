@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prath/Downloads/Project-2/Chest-Disease-Classification/research/mlruns/0/791b54c834de4326b68ef7b83e09ae0e/artifacts
+end_time: 1711537954817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 791b54c834de4326b68ef7b83e09ae0e
+run_name: bustling-penguin-413
+run_uuid: 791b54c834de4326b68ef7b83e09ae0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711537951015
+status: 3
+tags: []
+user_id: prath
