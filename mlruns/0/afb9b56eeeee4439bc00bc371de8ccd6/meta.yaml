@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prath/Downloads/Project-2/Chest-Disease-Classification/mlruns/0/afb9b56eeeee4439bc00bc371de8ccd6/artifacts
+end_time: 1711709840246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afb9b56eeeee4439bc00bc371de8ccd6
+run_name: clean-koi-123
+run_uuid: afb9b56eeeee4439bc00bc371de8ccd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711709832595
+status: 3
+tags: []
+user_id: prath
